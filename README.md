@@ -1,6 +1,3 @@
-# Modern Business Landing Page
-
-![modern-business-landing-page](/src/assets/react-busines-landing-page.png)
 
 ## 🌟 Features
 
