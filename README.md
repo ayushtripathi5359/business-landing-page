@@ -2,8 +2,6 @@
 
 ![modern-business-landing-page](/src/assets/react-busines-landing-page.png)
 
-A sleek and responsive landing page built with React, Tailwind CSS, and Framer Motion animations.
-
 ## 🌟 Features
 
 - Modern and clean design
@@ -50,34 +48,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-## 📦 Project Structure
-
-src/
-├── components/
-│ ├── Navbar.jsx
-│ ├── Hero.jsx
-│ ├── CompanyLogo.jsx
-│ ├── PurposeSection.jsx
-│ ├── FeaturesSection.jsx
-│ ├── ScheduleSection.jsx
-│ ├── MonitorSection.jsx
-│ ├── PricingSection.jsx
-│ ├── ServicesSection.jsx
-│ ├── TestimonialsSection.jsx
-│ ├── NewsletterSection.jsx
-│ └── Footer.jsx
-
-## 🎨 Customization
-
-1. Replace the placeholder images and text with your own content
-2. Update the company logo and testimonials in the `data.js` file
-3. Modify the pricing plans in the `PricingSection.jsx` file
-4. Update the newsletter form in the `NewsletterSection.jsx` file
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
